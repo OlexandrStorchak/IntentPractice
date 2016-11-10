@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntentPractice</string>
+    <string name="get_foto">Get Foto</string>
+    <string name="photo_camera">photo_camera</string>
+    <string name="camera">Camera</string>
+    <string name="bluetooth">bluetooth</string>
+    <string name="bluetooth_text">Bluetooth</string>
+</resources>
